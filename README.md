@@ -20,10 +20,9 @@
 
 ## Credit
 - Maker : [Leo Kim](https://github.com/August-Leo-0805)
-  - GitHub : [@August-Leo-0805](https://github.com/August-Leo-0805)
   - E-mail : dev.augustleo@gmail.com
-
-## Contact
-- Blog : [날 찾아온 낯선 여행자](https://llleeo0421.tistory.com)
-- Twitter : [@llleeo0421](https://www.twitter.com/llleeo0421)
-- Linkedin : [@augustleo](https://www.linkedin.com/in/augustleo)
+  - GitHub : [@August-Leo-0805](https://github.com/August-Leo-0805)
+  - Twitter : [@llleeo0421](https://www.twitter.com/llleeo0421)
+  - Linkedin : [@augustleo](https://www.linkedin.com/in/augustleo)
+  - Blog : [날 찾아온 낯선 여행자](https://llleeo0421.tistory.com)
+ 
