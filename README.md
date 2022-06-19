@@ -15,6 +15,10 @@
 - 급식 순서, 메뉴를 알려주는 프로그램. 
   - 언제 어디서나 핸드폰 or 컴퓨터만 급식메뉴와 들어가는 순서를 쉽게 파악할 수 있다.
 
+## 순서도
+![Untitled_Diagram drawio](https://user-images.githubusercontent.com/91189991/174468827-88877b6b-84b0-49ad-afba-cf86261eef76.png)
+
+
 ## 실행결과
 ![image](https://user-images.githubusercontent.com/91189991/174023997-f789d96f-cd0c-4328-bc53-27c7a690b659.png)
 
